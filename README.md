@@ -1,2 +1,2 @@
-# GameUp-Africa-Challenge-4-Assignment
+# Sumo Battle Game
 The Project files of Sumo Battle
